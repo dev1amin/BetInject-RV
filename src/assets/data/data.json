@@ -1,0 +1,42 @@
+[
+  {
+    "casino": "ApostaMax",
+    "players": 900000,
+    "revenue": 3420000,
+    "suppliers": [
+      "PG Soft",
+      "Spribe",
+      "pragmaticplay",
+      "Evoplay"
+    ],
+    "image": "https://i.imgur.com/UOp2DO4.png",
+    "link": "https://go.aff.apostamax.bet/gz0jzigp"
+  },
+  {
+    "casino": "InBrazza",
+    "players": 12600000,
+    "revenue": 48500000,
+    "suppliers": [
+      "PG Soft",
+      "pragmaticplay",
+      "Spribe",
+      "Evoplay"
+    ],
+    "image": "https://media.pl-01.cdn-platform.xyz/cms/sites/image-1691074832750233.webp",
+    "link": "https://affiliate.inbrazza.bet/visit/?bta=36398&brand=inbrazza"
+  },
+  {
+    "casino": "RealsBet",
+    "players": 1900000,
+    "revenue": 7220000,
+    "suppliers": [
+      "netgaming",
+      "pragmaticplay",
+      "Spribe",
+      "PG Soft",
+      "Evoplay"
+    ],
+    "image": "https://i.postimg.cc/sD9vK739/realsbet.webp",
+    "link": "https://afiliado.realsbet.com/visit/?bta=73073&brand=realsbet"
+  }
+]
