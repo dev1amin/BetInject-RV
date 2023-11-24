@@ -20,7 +20,7 @@ export function Nav({ vipAccess }) {
 
     return (
         <nav className="vip-container">
-            <img src={logo} height={60} onClick={backHome} />
+            <img src={logo} height={130} onClick={backHome} />
 
             {
 
